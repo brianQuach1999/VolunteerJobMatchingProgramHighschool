@@ -1,0 +1,28 @@
+Administrator for Nonprofit Organizations,11
+,Advocacy Director,14
+,Business Office Supervisor,12
+,Counselor,13
+,Critical Care Director,5
+,Development Assistant,2
+,Event Team Recruiter,1
+,Fundraising Manager,3
+,Grant Administrator,5
+,Hospice Supervisor,2
+,Human Services Worker,7
+,Job Developer,3
+,Juvenile Counselor,4
+,Labor Union Organizer,5
+,Major Gift Director,6
+,Member Certification Manager,2
+,Minister,1
+,Nonprofit Fundraiser,4
+,Online Activist,6
+,Pastor,2
+,Planned Gift Director,3
+,Recreational Therapy Director,4
+,Social Work Manager,8
+,Support Services Director9,
+,Team Leader,3
+,Teen Center Director,5
+,Volunteer Coordinator,5
+,Volunteer Director,5

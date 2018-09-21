@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Job()
+comment0.text=\r\n\ Constructor\ a\ job\ with\ default\ characteristics.\r\n
+comment1.params=jobTitle\ numberOfVolunteersNeeded
+comment1.target=Job(java.lang.String,\ int)
+comment1.text=\r\n\ Constructors\ a\ job\ with\ the\ specified\ job\ title\ and\ number\ of\ volunteers\ needed.\r\n\ \r\n\ @param\ jobTitle\ the\ job\ title\ of\ this\ job\ <br>\r\n\ <i>precondition\:</i>\ <code>jobTitle</code>\ cannot\ be\ null\r\n\ @param\ numberOfVolunteersNeeded\ the\ number\ of\ volunteer\ this\ job\ needs\r\n
+comment2.params=
+comment2.target=java.lang.String\ getJobTitle()
+comment2.text=\r\n\ Returns\ the\ job\ title\ of\ this\ job.\r\n\ \r\n\ @return\ the\ job\ title\ of\ this\ job\r\n
+comment3.params=
+comment3.target=int\ getNumberOfVolunteersNeeded()
+comment3.text=\r\n\ Returns\ the\ number\ of\ volunteers\ this\ job\ needs.\r\n\ \r\n\ @return\ the\ numberof\ volunteers\ this\ job\ needs\r\n
+comment4.params=jobTitle
+comment4.target=void\ setJobTitle(java.lang.String)
+comment4.text=\r\n\ Sets\ the\ job\ title\ of\ this\ job.\r\n\ \r\n\ @param\ jobTitle\ the\ job\ title\ of\ this\ job\ <br>\r\n\ <i>precondition\:</i>\ <code>jobTitle</code>\ cannot\ be\ null\r\n\ \r\n
+comment5.params=numberOfVolunteersNeeded
+comment5.target=void\ setNumberOfVolunteersNeeded(int)
+comment5.text=\r\n\ Sets\ the\ number\ of\ volunteers\ this\ job\ needs.\r\n\ \r\n\ @param\ numberOfVolunteersNeeded\ the\ number\ of\ volunteers\ this\ job\ needs\ <br>\r\n\ <i>precondition\:</i>\ <code>numberOfVolunteersNeeded</code>\ must\ be\ 0\ or\ greater\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Returns\ a\ string\ representation\ of\ this\ job.\r\n\ \r\n\ @return\ a\ string\ representation\ of\ this\ job\r\n
+numComments=7
